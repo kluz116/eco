@@ -1,0 +1,28 @@
+[11-Jul-2016 08:21:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecostove/public_html/eco-pay-go/connect.php:6) in /home/ecostove/public_html/eco-pay-go/index.php on line 9
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1557
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1558
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1557
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1558
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1595
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1596
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1595
+[11-Jul-2016 08:45:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1596
+[14-Jul-2016 09:02:44 America/Chicago] PHP Fatal error:  Call to a member function scheduleValidity() on a non-object in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 955
+[14-Jul-2016 09:03:16 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:03:16 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:03:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:03:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:03:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:03:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:06:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:06:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:06:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:06:22 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:06:30 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:06:30 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:06:30 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:06:30 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:06:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:06:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584
+[14-Jul-2016 09:06:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1583
+[14-Jul-2016 09:06:48 America/Chicago] PHP Warning:  Division by zero in /home/ecostove/public_html/eco-pay-go/config.inc.php on line 1584

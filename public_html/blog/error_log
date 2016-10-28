@@ -1,0 +1,6 @@
+[22-Jul-2016 06:50:00 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'ecostove_aiden'@'localhost' to database 'ecostove_blog'' in /home/ecostove/public_html/blog/includes/config.php:11
+Stack trace:
+#0 /home/ecostove/public_html/blog/includes/config.php(11): PDO->__construct('mysql:host=loca...', 'ecostove_aiden', 'the4rk')
+#1 /home/ecostove/public_html/blog/index.php(1): require('/home/ecostove/...')
+#2 {main}
+  thrown in /home/ecostove/public_html/blog/includes/config.php on line 11
